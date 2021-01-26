@@ -1,2 +1,3 @@
 # soundanalysis
-Tools for analyzing the sound statistics
+Tools for analyzing sound statistics.
+
